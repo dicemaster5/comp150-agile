@@ -51,24 +51,25 @@ Then we describe how we have conducted PMA in order to identify the good practic
 #### Comments:
 
 ### Paper 5
-#### Title: Title of paper
+#### Title: Game-Scrum: An Approach to Agile Game Development
 #### Citation: [5]
-#### Abstract: Copy and paste the abstract here
-#### Web link: Give the URL of the paper in IEEE Xplore, ACM Digital Library, or similar
-#### Full text link: Give the URL of a downloadable PDF of the paper, if you can find one
+#### Abstract:
+"The use of agile methodologies for developing games has become very common. However, such methodologies must be adapted to the team reality and to the particularities of the game development. Since there are few agile methodologies that specifically address the problems found in game development, this paper aims at investigating some alternatives and suggests an approach to guide people who are starting in this area. The proposed methodology, named Game-Scrum, has been applied in the development of a game for teaching software engineering. The results from its application are also discussed in the paper."
+#### Web link: https://scholar.google.co.uk/scholar?cluster=5907699131136300116&hl=en&as_sdt=0,5
+#### Full text link: http://www.sbgames.org/sbgames2010/proceedings/computing/short/Computing_short19.pdf
 #### Comments:
 Write a few sentences on how you found the article and why you believe it
 is relevant and/or important.
 
 ### Paper 6
-#### Title: Title of paper
+#### Title: Agile Game Development
 #### Citation: [6]
-#### Abstract: Copy and paste the abstract here
-#### Web link: Give the URL of the paper in IEEE Xplore, ACM Digital Library, or similar
-#### Full text link: Give the URL of a downloadable PDF of the paper, if you can find one
+#### Abstract:
+"There are many facets of game development that make it uniquely challenging. Video games tend to have a much larger emphasis on performance than traditional applications and have much more subjective system requirements. Video game design is also more difficult than traditional software system design due to the complex interactions between objects. Since a large amount of the object interaction in video games happens in the user interface, there are also unique challenges in testing video games. These constraints make video game framework selection much more critical to the success of the game. The creative design process and the ability of the game to immerse its user is also very critical to the success of the game. In this paper we further discuss the unique challenges that game design poses to the software development community."
+#### Web link: https://scholar.google.co.uk/scholar?cluster=9367670021807817981&hl=en&as_sdt=0,5
+#### Full text link: http://kremer.cpsc.ucalgary.ca/courses/seng403/W2013/papers/05GameDevelopment.pdf
 #### Comments:
-Write a few sentences on how you found the article and why you believe it
-is relevant and/or important.
+
 
 #### References
 [1] C. E. Shannon, “A mathematical theory of communication,” The Bell System
