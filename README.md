@@ -9,6 +9,9 @@ Essay on the Agile Philosophy
 ## Topic
 #### My essay will be on: Agile Development within the games industry
 Research qustion: "Why is Agile Development often used to make games in the games industry and is the scrum methodology the best methodology to use?"
+For my essay I will be writing about why the Agile development philosophy works so well for games development and why it's so popular within the industry and whether the Scrum methodology is the best for games development or if other agile methodologies could work better for developing games with a team.
+To address this question I will research the history of how games have been developed in teams in the past and how successful their methods were, and I will research ways in which some popular games have been developed without using the Scrum methodology to see how well a game can be developed without Scrum. I will then out weight the pros and cons of different Agile methodologies in order to find out if there are any better methodologies for games development.
+I will finally conclude on why Agile is so popular for games development and whether I think there is a better methodolgy then scrum for teams to develop games.
 
 ### Paper 1
 #### Title: Is agility out there?: agile practices in game development
