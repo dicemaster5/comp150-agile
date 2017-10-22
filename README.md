@@ -2,10 +2,12 @@
 Essay on the Agile Philosophy
 
 # Essay Proposal
-## COMP110 - Computer Architecture Essay
+## COMP150 - Agile Essay
 ## Sam Auber
 ## October 22, 2017
-## My essay will be on: Agile Development within the games industry
+
+## Topic
+#### My essay will be on: Agile Development within the games industry
 
 ### Paper 1
 #### Title: A Mathematical Theory of Communication
@@ -29,7 +31,6 @@ most-cited articles in computer science.
 #### Title: Title of paper
 #### Citation: [?]
 #### Abstract: Copy and paste the abstract here
-1
 #### Web link: Give the URL of the paper in IEEE Xplore, ACM Digital Library, or similar
 #### Full text link: Give the URL of a downloadable PDF of the paper, if you can find one
 #### Comments:
