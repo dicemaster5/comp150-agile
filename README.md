@@ -76,5 +76,9 @@ is relevant and/or important.
 
 
 #### References
-[1] C. E. Shannon, “A mathematical theory of communication,” The Bell System
-Technical Journal, vol. 27, no. 3, pp. 379–423, 1948.
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
